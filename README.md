@@ -1,5 +1,5 @@
 # Arduino-Uno-LS0964A
-Basic Arduino RGB LED Strips configuration making use of TIP120 NPN Darlington resistor
+Basic Arduino non-addressable RGB LED Strips configuration making use of TIP120 NPN Darlington resistor
 
 Wiring Diagram
 
