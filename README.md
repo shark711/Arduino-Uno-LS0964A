@@ -1,4 +1,4 @@
 # Arduino-Uno-LS0964A
 Basic Arduino RGB LED Strips configuration
 
-![alt text](https://github.com/shark711/Arduino-Uno-LS0964A/blob/[branch]/image.jpg?raw=true)
+![Wiring Diagram](https://github.com/shark711/Arduino-Uno-LS0964A/blob/main/images/LS0964A.png?raw=true)
