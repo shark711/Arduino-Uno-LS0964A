@@ -18,12 +18,20 @@ Basic Test Sequence to ensure you've connected it correctly: [LS0964A.ino](https
 
 # Bill of Materials
 
-| Name                   | Quantity | Component               |
-| ---------------------- | -------- | ----------------------- |
-| U1                     | 1        | Arduino Uno R3          |
-| R1, R2, R3, R4, R5, R6 | 6        | 1 kΩ Resistor           |
-| P1                     | 1        | 12V , 2.0A Power Supply |
-| D1                     | 1        | Red LED                 |
-| D2                     | 1        | Green LED               |
-| D3                     | 1        | Bue LED                 |
-| Q1, Q2, Q3             | 3        | TIP120                  |
+| Name                   | Quantity | Component                     |
+| ---------------------- | -------- | ----------------------------- |
+| U1                     | 1        | [Arduino Uno R3][U1]          |
+| R1, R2, R3, R4, R5, R6 | 6        | [1 kΩ Resistor][R1]           |
+| P1                     | 1        | [12V , 2.0A Power Supply][P1] |
+| D1                     | 1        | [Red LED][D1]                 |
+| D2                     | 1        | [Green LED][D2]               |
+| D3                     | 1        | [Bue LED][D3]                 |
+| Q1, Q2, Q3             | 3        | [TIP120][Q1]                  |
+
+[U1]: ./ "Empty"
+[R1]: ./ "Empty"
+[P1]: ./ "Empty"
+[D1]: ./ "Empty"
+[D2]: ./ "Empty"
+[D3]: ./ "Empty"
+[Q1]: https://www.amazon.com/s?k=tip120&rh=n%3A306910011%2Cn%3A306913011&dc&qid=1609465248&rnid=2941120011&ref=sr_nr_n_2 "Amazon"
