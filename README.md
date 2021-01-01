@@ -18,15 +18,16 @@ Basic Test Sequence to ensure you've connected it correctly: [LS0964A.ino](https
 
 # Bill of Materials
 
-| Name                   | Quantity | Component                         |
-| ---------------------- | -------- | --------------------------------- |
-| U1                     | 1        | [Arduino Uno R3][BOM_U1]          |
-| R1, R2, R3, R4, R5, R6 | 6        | [1 kΩ Resistor][BOM_R1]           |
-| P1                     | 1        | [12V , 2.0A Power Supply][BOM_P1] |
-| D1                     | 1        | [Red LED][BOM_D1]                 |
-| D2                     | 1        | [Green LED][BOM_D2]               |
-| D3                     | 1        | [Blue LED][BOM_D3]                |
-| Q1, Q2, Q3             | 3        | [TIP120][BOM_Q1]                  |
+| Name       | Quantity | Component                         | Optional |
+| ---------- | -------- | --------------------------------- | -------- |
+| U1         | 1        | [Arduino Uno R3][BOM_U1]          |          |
+| R1, R2, R3 | 3        | [1 kΩ Resistor][BOM_R1]           |          |
+| R4, R5, R6 | 3        | [1 kΩ Resistor][BOM_R1]           | Yes      |
+| P1         | 1        | [12V , 2.0A Power Supply][BOM_P1] |          |
+| D1         | 1        | [Red LED][BOM_D1]                 | Yes      |
+| D2         | 1        | [Green LED][BOM_D2]               | Yes      |
+| D3         | 1        | [Blue LED][BOM_D3]                | Yes      |
+| Q1, Q2, Q3 | 3        | [TIP120][BOM_Q1]                  |          |
 
 [BOM_U1]: https://www.amazon.com/s?k=Arduino+Uno+R3&rh=n%3A541966&dc&qid=1609465795&rnid=2941120011&ref=sr_nr_n_1 "Amazon"
 [BOM_R1]: https://www.amazon.com/s?k=1+k%E2%84%A6+Resistor&rh=n%3A306805011&dc&qid=1609465849&rnid=2941120011&ref=sr_nr_n_1 "Amazon"
