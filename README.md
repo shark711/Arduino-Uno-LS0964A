@@ -23,6 +23,7 @@ Basic Test Sequence to ensure you've connected it correctly: [LS0964A.ino](https
 | P1         | 1        | [12V , 2.0A Power Supply][BOM_P1] |          |
 | U1         | 1        | [Arduino Uno R3][BOM_U1]          |          |
 | Q1, Q2, Q3 | 3        | [TIP120][BOM_Q1]                  |          |
+| L1         | 1        | 12V RGB LED Analogue Strip        |          |
 | R1, R2, R3 | 3        | [1 kΩ Resistor][BOM_R1]           |          |
 | R4, R5, R6 | 3        | [1 kΩ Resistor][BOM_R1]           | Yes      |
 | D1         | 1        | [Red LED][BOM_D1]                 | Yes      |
