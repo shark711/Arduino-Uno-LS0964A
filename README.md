@@ -5,6 +5,8 @@ NOTE: Arduino has it's own power suply (different to the LED Strip) and the TIP1
 
 ![Wiring Diagram](https://github.com/shark711/Arduino-Uno-LS0964A/blob/main/images/LS0964A.png?raw=true)
 
+Wiring Diagram drawn up in [Tinkercard](https://www.tinkercad.com/)
+
 The plug on my LS0964A is aranged as
 
 - +12V
